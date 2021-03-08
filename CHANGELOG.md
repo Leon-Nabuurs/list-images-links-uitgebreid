@@ -1,4 +1,3 @@
-# Changelog Eerste huiswerk opdracht
+# Changelog Tweede huiswerk opdracht
 
-# [0.9.1] Persoonlijke zaken toegevoegd
 # [0.9.0] Initiële versie

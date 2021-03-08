@@ -1,3 +1,3 @@
-# list-images-links-2
-Oefening 1, WINC Web Development
+# list-images-links-uitgebreid
+Oefening 2, list, afbeeldingen en link toegevoegd
 
